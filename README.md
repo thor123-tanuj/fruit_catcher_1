@@ -1,2 +1,1 @@
-# fruit_catcher_1
-a stage 1 of fruit catcher
+# C39-Debug-Part-1
